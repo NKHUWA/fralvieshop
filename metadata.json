@@ -1,0 +1,7 @@
+{
+  "name": "fralvine grocery",
+  "description": "Inventory and sales management system with barcode scanning, integrated with Google Sheets.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
